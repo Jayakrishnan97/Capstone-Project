@@ -1,4 +1,4 @@
-In this project, i have taken 2019 airbnb data for analysis. It includes exloring, filtering and cleaning of the data, by deleting any duplicates and filled the missing and na values. For this i have used pandas dataframe.
+In this project, i have taken 2019 airbnb data for analysis. It includes exploring, filtering and cleaning of the data, by deleting any duplicates and filled the missing and na values. For this i have used pandas dataframe.
 
 Next step i have framed 13 questions for this project which are:
 Problem Statement
